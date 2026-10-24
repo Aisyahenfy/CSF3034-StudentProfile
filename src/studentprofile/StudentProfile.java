@@ -8,7 +8,7 @@ package studentprofile;
  * Version: 1.0
  ************************************************************************/
 
-public class StudentProfile { // main class declaration
+public class StudentProfile{ // main class declaration
 
     public static void main(String[] args) { // main method
 
