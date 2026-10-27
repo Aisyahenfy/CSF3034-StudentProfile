@@ -19,8 +19,10 @@ public class StudentProfile{ // main class declaration
         System.out.println("Semester: Semester 1");
         System.out.println("Favourite Language: Java");
         
-        // TAMBAH 2 BARIS INI DI SINI:
+        
         GradeMessage grade = new GradeMessage();
         grade.displayGrade();
     }
 }
+
+   
